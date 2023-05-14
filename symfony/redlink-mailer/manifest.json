@@ -1,0 +1,5 @@
+{
+    "env": {
+        "#1": "REDLINK_DSN=redlink+api://API_TOKEN:APP_TOKEN@default?fromSmtp=FROM_SMTP&version=VERSION"
+    }
+}
